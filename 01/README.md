@@ -24,8 +24,14 @@
 
 - [example](operations.js)
 
-### Arrays
+### Collections
+
+- Arrays, Objects
+- [example](collections.js)
 
 ### Conditions
+
+- if/else
+- [example](conditions.js)
 
 ### Loops

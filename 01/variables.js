@@ -6,4 +6,4 @@
 
 // String variable
 
-// Object variable
+// Boolean variable
