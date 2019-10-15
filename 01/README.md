@@ -31,7 +31,12 @@
 
 ### Conditions
 
-- if/else
+- If/else
+- Switch
 - [example](conditions.js)
 
 ### Loops
+
+- While
+- For
+- [example](loops.js)
