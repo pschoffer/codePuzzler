@@ -40,3 +40,10 @@
 - While
 - For
 - [example](loops.js)
+
+## Puzzles
+
+- [onboarding](https://www.codingame.com/ide/puzzle/onboarding)
+- [descent](https://www.codingame.com/ide/puzzle/the-descent)
+- [temperature](https://www.codingame.com/ide/puzzle/temperatures)
+- [river](https://www.codingame.com/ide/puzzle/the-river-i-)
