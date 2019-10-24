@@ -2,6 +2,7 @@
 
 ## Agenda
 
+- Tell a Joke
 - Tech Talk
 - Puzzles
 - Mingle
