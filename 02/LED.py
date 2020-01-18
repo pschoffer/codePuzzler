@@ -1,8 +1,6 @@
 from gpiozero import LED
 from time import sleep
 
-print("Starting")
-
 statusLed = LED(24)
 
 statusLed.on()

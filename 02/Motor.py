@@ -1,8 +1,6 @@
 from gpiozero import Motor
 from time import sleep
 
-print("Starting")
-
 motorLeft = Motor(4, 3)
 motorRight = Motor(16, 20)
 
